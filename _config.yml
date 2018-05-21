@@ -44,3 +44,5 @@ latest_release: 25.0-jre
 email: guava-discuss@googlegroups.com
 twitter_username: GoogleGuava
 github_username:  google/guava
+
+theme: jekyll-theme-merlot
